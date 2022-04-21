@@ -32,7 +32,9 @@ I am able to see the storage in IndexedDB.
 
 To use this application, please open this link:
 
-## App Look
+## App Link
+
+Deployed link: https://jate-awesome-text-editor.herokuapp.com/
 
 ## Reference
 
